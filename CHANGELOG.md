@@ -3,10 +3,6 @@
 ## Unreleased
 - Replace sass-rails with dartsass-sprockets
 - Upgrade to TinyMCE v5
-- Remove temporary dependencies
-- Add Ruby 3.2 to CI
-- Require Rails 6+
-- Require Ruby 2.7+
 
 ## [2.7.2](https://github.com/owen2345/camaleon-cms/tree/2.7.3) (2023-04-07)
 - Inclusion of CommonRelationships into subclasses is now performed in an inherited hook
@@ -26,6 +22,10 @@
 - Use cama_contact_form v. 0.1.0
 - Migrate CoffeeScript files to JS
 - Do not redundantly compile default theme assets
+- Remove temporary dependencies
+- Add Ruby 3.2 to CI
+- Require Rails 6+
+- Require Ruby 2.7+
 
 ## [2.6.4](https://github.com/owen2345/camaleon-cms/tree/2.6.4) (2022-06-08)
 - Reformat JSON comments for OJ compatibility
